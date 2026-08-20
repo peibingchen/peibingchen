@@ -50,7 +50,7 @@ I enjoy breaking complex problems into clear, manageable pieces and turning them
   <img src="https://komarev.com/ghpvc/?username=peibingchen&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
 </a>
 
-<br /><br />
+<br />
 
 <sub>Maintained with ❤️ by Bingchen Pei</sub>
 
