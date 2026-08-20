@@ -12,14 +12,25 @@
 </p>
 
 <p>
-  <a href="个人主页">
-    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://peibingchen.github.io/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/HOMEPAGE-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Homepage"
+    />
   </a>
+
+  <a href="mailto:你的学校邮箱">
+    <img
+      src="https://img.shields.io/badge/EMAIL%20(EDU)-2563EB?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Education Email"
+    />
+  </a>
+
   <a href="mailto:bingchenpei@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="【填写社交主页链接】">
-    <img src="https://img.shields.io/badge/Social-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social profile" />
+    <img
+      src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 </p>
 
