@@ -35,7 +35,7 @@ I enjoy breaking complex problems into clear, manageable pieces and turning them
 
 ## What I'm Doing
 
-- 🔭 **Current project ——** Guard (An intriguing top-secret project)
+- 🔭 **Current project ——** Guard (An intriguing top-secret project 🤗)
 - 🌱 **Currently learning ——** CS231n and some lessons about DL or NLP
 - 👯 **Finding collaborate ——**  Multimodal NLP, IR & Text Mining, Agent, Privacy
 - 😄 **Pronouns ——** Workaholic
