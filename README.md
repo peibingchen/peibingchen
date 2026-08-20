@@ -6,7 +6,7 @@
 />
 
 <p>
-  <strong> Undergrad </strong>
+  <strong> Undergrad student </strong>
   <br />
   <sub>📍 Beijing · ✨ The harder you work, the luckier you will be; the harder you work, the more freedom you will gain. </sub>
 </p>
