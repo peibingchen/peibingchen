@@ -6,7 +6,7 @@
 />
 
 <p>
-  <strong> Undergrad student </strong>
+  <strong> CS student @ BJTU </strong>
   <br />
   <sub>📍 Beijing · ✨ The harder you work, the luckier you will be; the harder you work, the more freedom you will gain. </sub>
 </p>
