@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1200&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi%21+I%27m+Bingchen+Pei+%F0%9F%91%8B"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1200&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi+%F0%9F%91%8B+I%27m+Bingchen+Pei"
   alt="Hi! I'm Bingchen Pei 👋"
 />
 
