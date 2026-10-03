@@ -14,14 +14,14 @@
 <p>
   <a href="https://peibingchen.github.io/">
     <img
-      src="https://img.shields.io/badge/HOMEPAGE-2563EB?style=flat-square&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/HOMEPAGE-1E293B?style=flat-square&logo=googlechrome&logoColor=white"
       alt="Homepage"
     />
   </a>
 
   <a href="mailto:bingchenpei@bjtu.edu.cn">
     <img
-      src="https://img.shields.io/badge/EMAIL%20(EDU)-7C3AED?style=flat-square&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/EMAIL%20(EDU)-2563EB?style=flat-square&logo=gmail&logoColor=white"
       alt="Education Email"
     />
   </a>
