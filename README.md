@@ -14,38 +14,45 @@
 <p>
   <a href="https://peibingchen.github.io/">
     <img
-      src="https://img.shields.io/badge/Homepage-2563EB?style=flat-square&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/HOMEPAGE-2563EB?style=flat-square&logo=googlechrome&logoColor=white"
       alt="Homepage"
     />
   </a>
 
   <a href="mailto:bingchenpei@bjtu.edu.cn">
     <img
-      src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
+      src="https://img.shields.io/badge/EMAIL%20(EDU)-2563EB?style=flat-square&logo=gmail&logoColor=white"
+      alt="Education Email"
+    />
+  </a>
+
+  <a href="mailto:bingchenpei@gmail.com">
+    <img
+      src="https://img.shields.io/badge/GMAIL-2563EB?style=flat-square&logo=gmail&logoColor=white"
+      alt="Gmail"
     />
   </a>
 </p>
 
-</div>
+<br />
 
----
+<p>
+  <em>I think I'll stop here.</em>
+  <br />
+  <sub>“或许我能就此结束这个故事。”</sub>
+</p>
 
-## About Me
+<br />
 
-I am a second-year undergraduate student at **Beijing Jiaotong University**, majoring in **Computer Science and Technology**.
+<p>
+  🔐 <strong>Privacy in Multimodal AI</strong>
+  &nbsp;·&nbsp;
+  🤖 <strong>LLM Agents</strong>
+  &nbsp;·&nbsp;
+  💻 <strong>AI4SE</strong>
+</p>
 
-My interests include **Natural Language Processing**, **LLM Agents**, **Retrieval-Augmented Generation**, and **Privacy in Multimodal AI**.
-
-## Current Focus
-
-- 🔐 **Privacy in Multimodal AI**
-- 🤖 **LLM Agents & Multi-Agent Collaboration**
-- 💻 **AI for Software Engineering**
-
----
-
-<div align="center">
+<br />
 
 <a href="https://github.com/peibingchen">
   <img
@@ -56,8 +63,6 @@ My interests include **Natural Language Processing**, **LLM Agents**, **Retrieva
 
 <br /><br />
 
-<sub>
-  The harder you work, the luckier you become.
-</sub>
+<sub>Maintained with ❤️ by Bingchen Pei</sub>
 
 </div>
