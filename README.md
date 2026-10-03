@@ -19,7 +19,7 @@
     />
   </a>
 
-  <a href="mailto:你的学校邮箱">
+  <a href="mailto:bingchenpei@bjtu.edu.cn">
     <img
       src="https://img.shields.io/badge/EMAIL%20(EDU)-2563EB?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Education Email"
