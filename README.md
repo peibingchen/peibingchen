@@ -28,13 +28,11 @@
 
   <a href="mailto:bingchenpei@gmail.com">
     <img
-      src="https://img.shields.io/badge/GMAIL-D97706?style=flat-square&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"
       alt="Gmail"
     />
   </a>
 </p>
-
-<br />
 
 <p>
   <em>I think I'll stop here.</em>
@@ -42,24 +40,17 @@
   <sub>“或许我能就此结束这个故事。”</sub>
 </p>
 
-<br />
-
 <p>
-  🔐 <strong>Privacy in Multimodal AI</strong><br />
-  <sub>Privacy-preserving multimodal interaction and reasoning</sub>
+  🔐 <strong>Privacy in Multimodal AI</strong> — Privacy-preserving multimodal interaction and reasoning
 </p>
 
 <p>
-  🤖 <strong>LLM Agents &amp; Multi-Agent Collaboration</strong><br />
-  <sub>Agentic workflows, collaboration, and tool-augmented reasoning</sub>
+  🤖 <strong>LLM Agents &amp; Multi-Agent Collaboration</strong> — Agentic workflows, collaboration, and tool-augmented reasoning
 </p>
 
 <p>
-  💻 <strong>AI for Software Engineering (AI4SE)</strong><br />
-  <sub>Exploring intelligent agents and LLMs for software development</sub>
+  💻 <strong>AI for Software Engineering (AI4SE)</strong> — LLMs and intelligent agents for software development
 </p>
-
-<br />
 
 <a href="https://github.com/peibingchen">
   <img
