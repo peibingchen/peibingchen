@@ -21,14 +21,14 @@
 
   <a href="mailto:bingchenpei@bjtu.edu.cn">
     <img
-      src="https://img.shields.io/badge/EMAIL%20(EDU)-2563EB?style=flat-square&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/EMAIL%20(EDU)-7C3AED?style=flat-square&logo=gmail&logoColor=white"
       alt="Education Email"
     />
   </a>
 
   <a href="mailto:bingchenpei@gmail.com">
     <img
-      src="https://img.shields.io/badge/GMAIL-2563EB?style=flat-square&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/GMAIL-D97706?style=flat-square&logo=gmail&logoColor=white"
       alt="Gmail"
     />
   </a>
@@ -45,11 +45,18 @@
 <br />
 
 <p>
-  🔐 <strong>Privacy in Multimodal AI</strong>
-  &nbsp;·&nbsp;
-  🤖 <strong>LLM Agents</strong>
-  &nbsp;·&nbsp;
-  💻 <strong>AI4SE</strong>
+  🔐 <strong>Privacy in Multimodal AI</strong><br />
+  <sub>Privacy-preserving multimodal interaction and reasoning</sub>
+</p>
+
+<p>
+  🤖 <strong>LLM Agents &amp; Multi-Agent Collaboration</strong><br />
+  <sub>Agentic workflows, collaboration, and tool-augmented reasoning</sub>
+</p>
+
+<p>
+  💻 <strong>AI for Software Engineering (AI4SE)</strong><br />
+  <sub>Exploring intelligent agents and LLMs for software development</sub>
 </p>
 
 <br />
@@ -60,9 +67,5 @@
     alt="Profile views"
   />
 </a>
-
-<br /><br />
-
-<sub>Maintained with ❤️ by Bingchen Pei</sub>
 
 </div>
